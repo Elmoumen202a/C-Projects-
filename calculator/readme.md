@@ -12,7 +12,7 @@ This is a basic C program that functions as a simple calculator, performing addi
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/simple-calculator.git
+    git clone https://github.com/Elmoumen202a/C-Projects-.git
     cd simple-calculator
     ```
 
