@@ -1,0 +1,8 @@
+# Basic requirements to compile and run a C program
+gcc             # C compiler
+make            # Build tool for using Makefile
+
+# Optional C libraries for additional functionality
+# ncurses       # For building text-based user interfaces
+# sqlite3       # For embedded database functionality
+# readline      # For command-line input handling
