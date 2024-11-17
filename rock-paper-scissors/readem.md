@@ -14,6 +14,7 @@ Welcome to **Rock Paper Scissors** implemented in the C programming language!
 - `tests.c`: Test cases to validate the game's functionality.
 - `Makefile`: Simplifies compilation and testing.
 - `readme.md`: This cool documentation! 😎
+- `.gitignore`: To exclude binaries, temp files, etc.
 
 ## 🔧 Usage
 ### Compile and Run
